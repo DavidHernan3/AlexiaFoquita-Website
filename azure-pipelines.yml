@@ -43,4 +43,4 @@ steps:
     appType: 'webApp'
     appName: 'Alexia-Putellas'              # Cambia esto por el nombre de tu App Service en Azure
     package: '$(Build.ArtifactStagingDirectory)/*/.zip'
-  displayName: 'Desplegar a Azure Web App
+  displayName: 'Desplegar a Azure Web App'
