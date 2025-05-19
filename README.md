@@ -1,6 +1,8 @@
 
 # Proyecto Alexia Foquita
 
+![Pagina Principal](https://i.imgur.com/bRlfdgb.png)
+
 ## Acerca del proyecto
 
 Alexia Foquita es la mascota virtual de Crazy Maraca Inc., una adorable foquita digital que trae ternura, ritmo y diversión.
@@ -30,11 +32,15 @@ git clone <URL_DEL_REPOSITORIO>
 # Paso 2: Navega al directorio del proyecto
 cd alexia-foquita
 
-# Paso 3: Instala las dependencias necesarias
+# Paso 3.1: Instala las dependencias necesarias
 npm i
+
+# Paso 3.2: Para crear una nueva distribución de el proyecto
+npm run build 
 
 # Paso 4: Inicia el servidor de desarrollo
 npm run dev
 ```
 
 © 2025 Crazy Maraca Inc. Todos los derechos reservados.
+Equipo de Los boquerones
